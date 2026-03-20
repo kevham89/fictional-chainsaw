@@ -1,3 +1,7 @@
+# Simple Blackjack Game in Python
+# This code defines a simple command-line Blackjack game where the player can play against a dealer. The player starts with a balance of $100 and can place bets on each round. The game continues until the player runs out of money or chooses to stop playing.
+# The game includes classes for Card, Deck, Hand, and BlackjackGame to manage the game logic and flow. The player can choose to hit or stand during their turn, and the dealer will play according to standard Blackjack rules. The game also handles reshuffling the deck when it runs low on cards.
+
 import random
 
 class Card:
