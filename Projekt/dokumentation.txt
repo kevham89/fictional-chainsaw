@@ -1,0 +1,34 @@
+Användaren skriver en färg.
+	Räkna hur många bokstäver användaren skriver in
+		loopa en counter som räknar mellan 1 & 2 och börjar om igen för att se om det blir udda eller jämnt
+
+
+Jämna-sidan
+Presentera färgvalen och be användaren att välja en utav färgerna
+	Ge användaren "spådommen" från den valda färgen
+		Starta om spelet
+
+Färg1
+	Svar1
+Färg2
+	Svar2
+Färg3
+	Svar3
+Färg4
+	Svar4
+	
+	
+
+Udda-Sidan
+Presentera färgvalen och be användaren att välja en utav färgerna
+	Ge användaren "spådommen" från den valda färgen
+		Starta om spelet
+
+Färg5
+	Svar5
+Färg6
+	Svar6
+Färg7
+	Svar7
+Färg8
+	Svar8
